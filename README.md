@@ -16,7 +16,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,js,html,css,bootstrap,tailwind,git,github,arduino,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,js,html,css,bootstrap,tailwind,git,github,arduino,vscode,linux,docker" />
 </p>
 
 ---
@@ -42,40 +42,18 @@
 
 <p align="center">
   <a href="https://github.com/CyberLeafy">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" style="margin:10px" />
   </a>
   <a href="mailto:adityajaiswal7488@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin:10px" />
+  </a>
+  <a href="https://instagram.com/aditya_jaiswal74">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" style="margin:10px" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
-<p align="left">
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-</p>
-
-
-<p align="left">
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-</p>
 
 
 ⭐️ **Star my repositories if you like my work!**
