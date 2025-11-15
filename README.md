@@ -51,4 +51,31 @@
 
 ---
 
+<p align="center">
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+<p align="left">
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+</p>
+
+
+<p align="left">
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+</p>
+
+
 ⭐️ **Star my repositories if you like my work!**
