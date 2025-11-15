@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Jaiswal</h1>
 <h3 align="center">A passionate Developer | Tech Explorer | JEE Aspirant 🇮🇳</h3> 
 
----
 <img src="https://komarev.com/ghpvc/?username=CyberLeafy&color=blue" alt="Profile views" />
 
 ### 🚀 Quick Introduction 
