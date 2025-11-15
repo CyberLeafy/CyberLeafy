@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Jaiswal</h1>
 <h3 align="center">A passionate Developer | Tech Explorer | JEE Aspirant 🇮🇳</h3> 
-<img src="https://komarev.com/ghpvc/?username=CyberLeafy&color=blue" alt="Profile views" />
 
 ---
+<img src="https://komarev.com/ghpvc/?username=CyberLeafy&color=blue" alt="Profile views" />
 
 ### 🚀 Quick Introduction 
 
@@ -16,18 +16,8 @@
 
 ### 🛠️ Languages and Tools
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,react,nextjs,js,html,css,bootstrap,tailwind,git,github,docker,linux,vscode,postgresql" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberLeafy&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
 
-
+<p align="center"><img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,react,nextjs,js,html,css,bootstrap,tailwind,git,github,docker,linux,vscode,postgresql" /></p>
 
 ---
 
@@ -82,9 +72,6 @@
   </a>
   <a href="https://instagram.com/aditya_jaiswal74">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" style="margin:5px" />
-  </a>
-  <a href="https://linkedin.com/in/aditya-jaiswal7488">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin:5px" />
   </a>
   <a href="https://youtube.com">
    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="45" style="margin:5px" />
