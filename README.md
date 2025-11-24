@@ -11,6 +11,8 @@
 🔸💬 Known for building intuitive, production-ready **school management systems**    
 🔸⚡ Motto: *“If it doesn’t break first, is it even code?” 😄*
 
+👉 **Visit My Profile -** [Click Me😊](https://cyberleafy.github.io/qr/)
+
 ---
 
 ### 🛠️ Languages and Tools
