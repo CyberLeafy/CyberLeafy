@@ -37,16 +37,8 @@ Designed a centralized platform to manage **students, teachers, results, and adm
 ## 👋 About Me
 
 I’m a 12th grade student who enjoys learning by building real projects.
-I mostly work on the backend using Python (Flask, FastAPI, Django) and also use Node.js with Express when needed.
-I’ve built web applications with REST APIs and role-based systems, focusing on clean structure and reliability.
-
-While I work comfortably across frontend and backend, my primary interest lies in  
-**backend architecture, scalability, and system design**.
-
-- Backend-first approach using **Flask, FastAPI, and Django**
-- Frontend experience with **React, Tailwind CSS, and modern UI patterns**
-- Hands-on experience building **real-world systems**, not just demos
-- Interested in **cloud deployments, automation, and performance optimization**
+I mainly work on the backend using Python (Flask, FastAPI, Django) and Node.js (Express).
+I’ve built web applications with REST APIs and role-based features, and I’m interested in backend systems and scalability.
 
 🌐 **Portfolio:** [https://hellocoder.online](https://hellocoder.online)
 
@@ -106,34 +98,14 @@ While I work comfortably across frontend and backend, my primary interest lies i
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberLeafy&layout=compact&theme=tokyonight&hide_border=true)
 
-
----
-
-## 🧠 What I Focus On
-
-- Designing **clean backend architectures**
-- Building **secure & scalable APIs**
-- Implementing **authentication, RBAC, and dashboards**
-- Writing maintainable, production-ready code
-- Bridging backend logic with efficient frontend integration
-
----
-
-## 🎯 Current Direction
-
-- Advanced **FastAPI & backend patterns**
-- System design fundamentals
-- Cloud deployment workflows (Docker, Render, AWS basics)
-- Gradual move toward **high-scale backend systems**
-
 ---
 
 ## 🤝 Connect
 
-<p align="center">
-  <!-- <a href="https://github.com/CyberLeafy">
+<!-- <p align="center">
+  <a href="https://github.com/CyberLeafy">
     <img src="https://skillicons.dev/icons?i=github" height="45" style="margin:5px" />
-  </a> -->
+  </a>
   <a href="mailto:hello.adityajaiswal@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin:5px" />
   </a>
@@ -146,11 +118,16 @@ While I work comfortably across frontend and backend, my primary interest lies i
   
   <a href="https://www.linkedin.com/in/iam-aditya-jaiswal">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="45" style="margin:5px" />
-   <!-- <img src="https://cdn.simpleicons.org/linkedin/FF0000" /> -->
+   <img src="https://cdn.simpleicons.org/linkedin/FF0000" />
   </a>
-</p>
+</p> -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/i.aditya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@vghfh-tyr65-gtyf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@spider) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityajaiswalre54e65@gmail.com) 
+<p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/i.adityajaiswal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@iam-aditya-jaiswal)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@spiderX_code)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello.adityajaiswal@gmail.com) 
+</p>
 
 ---
 
