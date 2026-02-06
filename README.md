@@ -96,9 +96,16 @@ While I work comfortably across frontend and backend, my primary interest lies i
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CyberLeafy&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
+
+![](https://github-readme-stats.vercel.app/api?username=CyberLeafy&show_icons=true&theme=tokyonight&hide_border=true)<br/>
+
+![](https://streak-stats.demolab.com?user=CyberLeafy&theme=tokyonight&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberLeafy&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
@@ -135,6 +142,10 @@ While I work comfortably across frontend and backend, my primary interest lies i
   </a>
   <a href="https://www.youtube.com/@spiderX_code">
    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="45" style="margin:5px" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/iam-aditya-jaiswal">
+   <img src="https://cdn.simpleicons.org/linkedin/FF0000" height="45" style="margin:5px" />
   </a>
 </p>
 
