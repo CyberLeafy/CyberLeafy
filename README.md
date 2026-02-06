@@ -150,6 +150,8 @@ While I work comfortably across frontend and backend, my primary interest lies i
   </a>
 </p>
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/i.aditya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@vghfh-tyr65-gtyf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@spider) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityajaiswalre54e65@gmail.com) 
+
 ---
 
 ⭐ Always open to collaboration on backend-heavy, real-world projects.
