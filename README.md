@@ -36,8 +36,9 @@ Designed a centralized platform to manage **students, teachers, results, and adm
 
 ## 👋 About Me
 
-I’m a **full-stack developer** with a **strong backend focus**, experienced in building  
-**production-ready web applications**, REST APIs, and role-based systems.
+I’m a 12th grade student who enjoys learning by building real projects.
+I mostly work on the backend using Python (Flask, FastAPI, Django) and also use Node.js with Express when needed.
+I’ve built web applications with REST APIs and role-based systems, focusing on clean structure and reliability.
 
 While I work comfortably across frontend and backend, my primary interest lies in  
 **backend architecture, scalability, and system design**.
@@ -96,7 +97,7 @@ While I work comfortably across frontend and backend, my primary interest lies i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberLeafy&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberLeafy&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
