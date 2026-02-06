@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Jaiswal</h1>
-<h3 align="center">Backend-Focused Full Stack Developer • System Builder 🇮🇳</h3>
+<h3 align="center">Student Developer • Building Real Projects 🇮🇳</h3>
+
 
 
 <img src="https://komarev.com/ghpvc/?username=CyberLeafy&color=0e75b6&style=flat" alt="profile views" />
@@ -36,9 +37,9 @@ Designed a centralized platform to manage **students, teachers, results, and adm
 
 ## 👋 About Me
 
-I’m a 12th grade student who enjoys learning by building real projects.
-I mainly work on the backend using Python (Flask, FastAPI, Django) and Node.js (Express).
-I’ve built web applications with REST APIs and role-based features, and I’m interested in backend systems and scalability.
+- I’m a 12th grade student who enjoys learning by building real projects.
+- I mainly work on the backend using Python (Flask, FastAPI) and Node.js (Express).
+- I’ve built web applications with REST APIs and role-based features, and I’m interested in backend systems and scalability.
 
 🌐 **Portfolio:** [https://hellocoder.online](https://hellocoder.online)
 
@@ -51,7 +52,7 @@ I’ve built web applications with REST APIs and role-based features, and I’m 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
+<!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" /> -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
@@ -74,7 +75,6 @@ I’ve built web applications with REST APIs and role-based features, and I’m 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ### Tools
@@ -97,8 +97,6 @@ I’ve built web applications with REST APIs and role-based features, and I’m 
 ![](https://streak-stats.demolab.com?user=CyberLeafy&theme=tokyonight&hide_border=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberLeafy&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🤝 Connect
 
@@ -123,10 +121,11 @@ I’ve built web applications with REST APIs and role-based features, and I’m 
 </p> -->
 
 <p>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/i.adityajaiswal)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@iam-aditya-jaiswal)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@spiderX_code)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello.adityajaiswal@gmail.com) 
+
 </p>
 
 ---
