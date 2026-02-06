@@ -145,7 +145,8 @@ While I work comfortably across frontend and backend, my primary interest lies i
   </a>
   
   <a href="https://www.linkedin.com/in/iam-aditya-jaiswal">
-   <img src="https://cdn.simpleicons.org/linkedin/FF0000" height="45" style="margin:5px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="45" style="margin:5px" />
+   <!-- <img src="https://cdn.simpleicons.org/linkedin/FF0000" /> -->
   </a>
 </p>
 
