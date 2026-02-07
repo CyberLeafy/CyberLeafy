@@ -30,7 +30,7 @@ Designed a centralized platform to manage **students, teachers, results, and adm
 - Reflects hands-on experience solving **practical backend problems**
 
 🛠️ **Core Stack**
-`Python` • `Flask` • `PostgreSQL` • `Tailwind CSS`
+`Python` • `Flask` • `PostgreSQL` • `Bootstrap`
 
 
 ---
