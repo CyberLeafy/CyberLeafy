@@ -10,7 +10,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=CyberLeafy&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-<a href="https://github.com/CyberLeafy?tab=followers"><img src="https://img.shields.io/github/followers/CyberLeafy?label=Followers&style=flat-square&color=06b6d4" alt="followers" /></a>
 <a href="https://github.com/CyberLeafy?tab=repositories"><img src="https://img.shields.io/badge/Open%20to-Collaboration-10b981?style=flat-square" alt="open to collab" /></a>
 
 </div>
